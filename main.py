@@ -197,3 +197,4 @@ def result_total_costs_by_category(temp_array_users):
 # начинается выполнения программы
 if __name__ == "__main__":
     main_dialog()
+
